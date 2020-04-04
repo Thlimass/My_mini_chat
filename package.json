@@ -1,0 +1,20 @@
+{
+  "name": "my_mini_chat",
+  "version": "1.0.0",
+  "description": "mini_chat via terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thlimass/My_mini_chat.git"
+  },
+  "keywords": [],
+  "author": "Thiago L S Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thlimass/My_mini_chat/issues"
+  },
+  "homepage": "https://github.com/Thlimass/My_mini_chat#readme"
+}
